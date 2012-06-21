@@ -1992,7 +1992,7 @@ This page was forked with permission from [http://en.wikipedia.org/wiki/Technolo
 [32]: http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=1
 [33]: //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/PPTMooresLawai.jpg/225px-PPTMooresLawai.jpg
 [34]: http://en.wikipedia.org/wiki/File:PPTMooresLawai.jpg
-[35]: //bits.wikimedia.org/static-1.20wmf4/skins/common/images/magnify-clip.png
+[35]: //bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png
 [36]: http://en.wikipedia.org/wiki/Paradigm_shift
 [37]: http://en.wikipedia.org/wiki/Moore%27s_law
 [38]: http://en.wikipedia.org/wiki/Integrated_circuits
@@ -2590,7 +2590,7 @@ This page was forked with permission from [http://en.wikipedia.org/wiki/Technolo
 [630]: http://en.wikipedia.org/wiki/Special:BookSources/978-0-252-07223-9
 [631]: http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=16
 [632]: http://en.wikipedia.org/wiki/File:TechSingularity.ogg
-[633]: //bits.wikimedia.org/static-1.20wmf4/extensions/OggHandler/play.png
+[633]: //bits.wikimedia.org/static-1.20wmf5/extensions/OggHandler/play.png
 [634]: //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png
 [635]: http://en.wikipedia.org/wiki/Wikipedia:Media_help
 [636]: http://en.wikipedia.org/wiki/Wikipedia:Spoken_articles
